@@ -1,0 +1,5 @@
+l=int(input("Enter the value:"))
+m=int(input("Enter the value:"))
+n=int(input("Enter the value:"))
+print("Largest of ",l,m,n,"are:")
+print(max(l,m,n))
